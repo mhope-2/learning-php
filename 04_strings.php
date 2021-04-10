@@ -1,7 +1,10 @@
 <?php
 
 // Create simple string
+$name = "Hello Mike";
+$age = "eight";
 
+echo("$name is $age years old");
 // String concatenation
 
 // String functions
